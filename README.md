@@ -25,7 +25,7 @@ Minimise the cost per 100g of the blend, meeting the shop’s specified flavour 
 5. Nutty notes (S) limited to a maximum of 20%.
 
 ### Solution and Analysis
-Using linear programming, the optimal blend consists of:
+Using linear programming (Excel Solver), the optimal blend consists of:
 - **Supremo**: 11.8%
 - **Peaberry**: 82.3%
 - **Guatemalan**: 5.9%
